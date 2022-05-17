@@ -1,0 +1,22 @@
+
+*{
+    background-color:azure;
+    font-family: 'Macondo', cursive;
+
+}
+
+.center {
+
+    text-align: center;
+    font-size: 55px;
+}
+
+.center2 {
+    text-align: center;
+    background-color: aliceblue;
+    padding: 25px;
+}
+
+.description {
+    text-align: center;
+}
